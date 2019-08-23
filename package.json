@@ -16,6 +16,7 @@
   "author": "Megan Kim",
   "license": "ISC",
   "dependencies": {
+    "cowsay": "^1.4.0",
     "prettyjson": "^1.2.1"
   }
 }
