@@ -3,7 +3,7 @@ const data = require('./lib/data')
 
 const renderOpts = {
   dashColor: 'cyan',
-  keysColor: 'blue',
+  keysColor: 'cyan',
   stringColor: 'white'
 }
 
